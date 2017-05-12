@@ -746,6 +746,17 @@ body{
 	margin-top: 6%;
 	padding-bottom: 56.25%;
 }
+.flash-container .ratio-169 #dmplayer-live {
+	position: absolute;
+	display: block;
+	overflow: hidden;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	width: 100%;
+	height: 100%;
+}
 /*CUBE*/
 .cube-container {
 	position:relative;
